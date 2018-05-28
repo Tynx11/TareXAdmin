@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TarexAdmin</string>
+    <string name="your_login">Ваш логин</string>
+    <string name="your_name">Ваше имя</string>
+    <string name="login">Вход</string>
+    <string name="date_reservation">Дата бронирования:</string>
+</resources>
